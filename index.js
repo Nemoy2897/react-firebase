@@ -18,7 +18,7 @@ class App extends Component {
       <div>
         <Hello name={this.state.name} />
         <p>
-          edited this one
+          edited this one!
         </p>
         <Menu name={name}/>
       </div>
